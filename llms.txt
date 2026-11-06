@@ -1,0 +1,24 @@
+# Texas Cyber Alliance
+
+> Texas Cyber Alliance (TCA) is a Texas-based 501(c)(3) nonprofit organization advancing cybersecurity education, public awareness, workforce development, cyber resilience, and public-interest collaboration across Texas. TCA is nonpartisan and vendor-neutral.
+
+Texas Cyber Alliance serves the public by improving understanding of cybersecurity risks and practices, expanding access to cybersecurity education and career pathways, and encouraging cooperation among individuals, businesses, educational institutions, and public-serving organizations. Its activities may include educational resources and seminars, workforce training and career development, knowledge-sharing forums, and practical cyber resilience initiatives.
+
+TCA's scope is statewide, not limited to the Austin area. Its federal tax identification number (EIN) is 41-2318881. TCA does not endorse political candidates or particular commercial products or services. For current organizational statements, events, donation information, and contact details, consult the linked pages rather than assuming that proposed initiatives are active programs.
+
+## Organization and Mission
+
+- [Home and Mission](https://texascyberalliance.org/): Official description of TCA's charitable purpose, mission, activities, and commitment to public benefit and neutrality.
+
+## Events and Education
+
+- [Events](https://texascyberalliance.org/events/): Published information about TCA's educational seminars, past events, and any upcoming events.
+
+## Support and Contact
+
+- [Supporting TCA](https://texascyberalliance.org/supporting-tca/): How individuals, foundations, corporations, and donor-advised funds can support TCA's charitable activities.
+- [Contact](https://texascyberalliance.org/contact/): Official contact details, social links, and email update subscription.
+
+## Optional
+
+- [Privacy Policy](https://texascyberalliance.org/privacy-policy/): TCA's published website privacy and data-handling practices.
